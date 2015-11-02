@@ -1,0 +1,9 @@
+.idea
+
+.vagrant
+
+.cache
+.virtualenvs
+.pycharm_helpers
+.bash_history
+.Xauthority-c
